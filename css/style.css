@@ -1,0 +1,106 @@
+eader {
+width: 100%;
+height: 100px;
+margin: auto;
+
+}
+
+
+
+body {background-color: gray;
+background-image: url(http://cdn.wallpapersafari.com/92/86/YuxsoL.jpg);
+background-size: 120%;
+}
+
+.title {
+ margin-top: 190px;
+text-indent: 150px;
+font-size: 100px;
+color: white;
+font-family: 'Eater', cursive;
+margin-bottom: 10px;
+}
+
+.titledes {
+	text-indent: 150px;
+color: white;
+margin-bottom: 50px;
+font-size: 30px;
+font-family: 'Eater', cursive;
+}
+
+.one {width: 1650px;
+height: 900px;
+background-color: black;
+margin: auto;
+margin-bottom: 150px;
+background-image: url(http://i.imgur.com/DcdmG.png);
+background-repeat: no-repeat; 
+}
+
+.in {width: 400px;
+height: 550px;
+margin-left: 1000px;
+padding-top: 160px;
+background-image: url(https://s-media-cache-ak0.pinimg.com/236x/5f/28/3c/5f283c179fe142755e4a98f9b582057b.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: bottom;
+}
+
+.two {
+	width: 1650px;
+height: 900px;
+background-color: black;
+margin: auto;
+margin-top: 150px;
+margin-bottom: 150px;
+background-image: url(http://farm6.static.flickr.com/5177/5534481505_1e78e497c7.jpg);
+background-repeat: no-repeat;
+background-size: 40%;
+}
+
+.intwo {width: 400px;
+height: 550px;
+margin-left: 1000px;
+padding-top: 160px;
+background-image: url(http://1.bp.blogspot.com/-iWZaK6y-Ezk/VjTjmU8TCSI/AAAAAAAABAc/6Ib7SbrTl2o/s1600/Jason.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: bottom;
+}
+
+.three {
+	width: 1650px;
+height: 900px;
+background-color: black;
+margin: auto;
+margin-top: 150px;
+margin-bottom: 150px;
+background-image: url(http://images2.fanpop.com/image/photos/12500000/Freddy-Krueger-freddy-krueger-12593303-428-500.jpg);
+background-repeat: no-repeat;
+background-size: 60%;
+}
+
+.inthree {width: 400px;
+height: 550px;
+margin-left: 1000px;
+padding-top: 190px;
+background-image: url(https://billgauthiergauthicnights.files.wordpress.com/2013/03/nightmare1promo16.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: bottom;
+}
+
+nav li {display: inline-block;
+border: 5px;
+border-color: red;
+border-style: none;
+margin-left: 50px;position: relative;
+font-family: 'Butcherman', cursive;
+}
+
+nav {text-align: center;
+	font-size: 50px;
+	position: relative;
+}
