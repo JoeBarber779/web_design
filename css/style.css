@@ -92,6 +92,16 @@ background-size: 100%;
 background-position: bottom;
 }
 
+.inthreetest {
+	height: 400px;
+	width: 300;
+	color: white;
+	font-size: 25px;
+	position: center;
+	padding-left: 650px;
+
+}
+
 nav li {display: inline-block;
 border: 5px;
 border-color: red;
